@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "985832360858",
+    "project_id": "telemundo21-f04be",
+    "storage_bucket": "telemundo21-f04be.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:985832360858:android:2b4888e02b6149ad9e0823",
+        "android_client_info": {
+          "package_name": "com.example.telemundo21"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "985832360858-6a20v55bd6lv274bl7udd75hftb8fn7j.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDM9aPtZTE3omQvIFcwQCU8tkVg7gwN2wc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "985832360858-6a20v55bd6lv274bl7udd75hftb8fn7j.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
