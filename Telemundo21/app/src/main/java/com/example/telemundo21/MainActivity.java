@@ -155,6 +155,7 @@ public class MainActivity extends AppCompatActivity {
                         } else {
                             // If sign in fails, display a message to the user.
                             Log.w("TAG", "signInWithCredential:failure", task.getException());
+                            Toast.makeText(MainActivity.this, "თქვენ ვერ გაიარეთ ავტორიზაცია", Toast.LENGTH_SHORT).show();
                             updateUI(null);
                         }
 
