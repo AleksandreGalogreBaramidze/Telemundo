@@ -1,3 +1,12 @@
 <resources>
     <string name="app_name">Telemundo2.1</string>
+    <string name="Menu1">  Popular on Telemundo</string>
+    <string name="Menu2">  New Releases</string>
+    <string name="main1">  Log in</string>
+    <string name="main2">   Email</string>
+    <string name="main3">  Password</string>
+    <string name="reg1">Register</string>
+    <string name="reg2">Email</string>
+    <string name="reg3">Name</string>
+    <string name="reg4">Password</string>
 </resources>

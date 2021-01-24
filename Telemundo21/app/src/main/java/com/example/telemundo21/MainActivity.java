@@ -30,7 +30,6 @@ public class MainActivity extends AppCompatActivity {
     private GoogleSignInClient mGoogleSignInClient;
     private final static int RC_SIGN_IN = 123;
     Button verify;
-
     public void updateUI(FirebaseUser account){
     }
 
@@ -64,11 +63,9 @@ public class MainActivity extends AppCompatActivity {
                                 Log.d("TAG", "signInWithEmail:success");
                                 FirebaseUser user = mAuth.getCurrentUser();
                                 updateUI(user);
-                                Intent RegistrationChoiceIntent = new Intent(getApplicationContext(), Menu.class);
-                                startActivity(RegistrationChoiceIntent);
+                                Intent GoogleRegIntent = new Intent(getApplicationContext(), Menu.class);
+                                startActivity(GoogleRegIntent);
                             } else {
-                                // If sign in fails, display a message to the user.
-                                Log.w("TAG", "signInWithEmail:failure", task.getException());
                                 Toast.makeText(MainActivity.this, "Authentication failed.",
                                         Toast.LENGTH_SHORT).show();
                                 updateUI(null);
@@ -100,10 +97,6 @@ public class MainActivity extends AppCompatActivity {
                 signIn();
             }
         });
-
-
-
-
     }
     private void createRequest(){
         GoogleSignInOptions gso = new GoogleSignInOptions.Builder(GoogleSignInOptions.DEFAULT_SIGN_IN)
@@ -149,17 +142,12 @@ public class MainActivity extends AppCompatActivity {
                             Intent RegistrationChoiceIntent = new Intent(getApplicationContext(), Menu.class);
                             startActivity(RegistrationChoiceIntent);
                             updateUI(user);
-
-
-
                         } else {
                             // If sign in fails, display a message to the user.
                             Log.w("TAG", "signInWithCredential:failure", task.getException());
                             Toast.makeText(MainActivity.this, "თქვენ ვერ გაიარეთ ავტორიზაცია", Toast.LENGTH_SHORT).show();
                             updateUI(null);
                         }
-
-                        // ...
                     }
                 });
 
@@ -169,7 +157,6 @@ public class MainActivity extends AppCompatActivity {
     @Override
     public void onStart() {
         super.onStart();
-        // Check if user is signed in (non-null) and update UI accordingly.
         FirebaseUser currentUser = mAuth.getCurrentUser();
         updateUI(currentUser);
     }

@@ -34,6 +34,7 @@
         android:id="@+id/imageView6"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
+        android:onClick="moviewatch"
         app:layout_constraintBottom_toBottomOf="@+id/imageView5"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintHorizontal_bias="0.069"
@@ -58,6 +59,7 @@
         android:id="@+id/imageView18"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
+        android:onClick="back"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintHorizontal_bias="0.041"
@@ -79,12 +81,14 @@
         app:srcCompat="@drawable/telelogo" />
 
     <androidx.recyclerview.widget.RecyclerView
-        android:layout_width="406dp"
-        android:layout_height="325dp"
-        app:layout_constraintBottom_toBottomOf="parent"
+        android:id="@+id/recyclerView"
+        android:layout_width="417dp"
+        android:layout_height="329dp"
+        app:layout_constraintBottom_toBottomOf="@+id/imageView5"
         app:layout_constraintEnd_toEndOf="parent"
-        app:layout_constraintHorizontal_bias="0.4"
+        app:layout_constraintHorizontal_bias="0.0"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent"
-        app:layout_constraintVertical_bias="0.729" />
+        app:layout_constraintVertical_bias="0.727" />
+
 </androidx.constraintlayout.widget.ConstraintLayout>
