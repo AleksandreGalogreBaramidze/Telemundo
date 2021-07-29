@@ -29,6 +29,7 @@ You is free and open source.
 - Post in Certain radius
 - Chat
 - Comments on Post
+- React on Post
 
 ## Design
 
