@@ -30,11 +30,15 @@ You is Social apllication. there is news page,which contains information about c
 
 ## Design
 
-![Screenshot 2021-07-29 164711](https://user-images.githubusercontent.com/74540578/127500581-e12161ec-351e-4b8b-9a3d-15f295ac9aa4.jpg) 
+![Screenshot 2021-07-30 025517](https://user-images.githubusercontent.com/74540578/127578006-1f0e6d27-77a0-4589-9040-8180412bfbb5.jpg)
 
-![Screenshot 2021-07-29 164643](https://user-images.githubusercontent.com/74540578/127500597-860065e7-8054-4208-b74e-72f38f0836c8.jpg) 
+![Screenshot 2021-07-30 025529](https://user-images.githubusercontent.com/74540578/127578015-baa006d3-c5f4-472a-a092-34a3d28db689.jpg)
 
-![Screenshot 2021-07-29 164618](https://user-images.githubusercontent.com/74540578/127500608-9dde07bd-9bbe-46ef-92f3-f2bc38402a16.jpg) 
+![Screenshot 2021-07-30 031941](https://user-images.githubusercontent.com/74540578/127578023-b985127a-0731-49c6-8a89-a8e8fd5c125d.jpg)
 
-![Screenshot 2021-07-29 164256](https://user-images.githubusercontent.com/74540578/127500617-7cfbdbc7-7d1c-4db9-a00f-35233e6845cc.jpg)
+![Screenshot 2021-07-30 032120](https://user-images.githubusercontent.com/74540578/127578034-612aa614-9073-44b4-a488-defcb1a7f1ad.jpg)
+
+![Screenshot 2021-07-30 032133](https://user-images.githubusercontent.com/74540578/127578042-b3286c85-8613-4742-b5dd-8cca7d3205f0.jpg)
+
+![Screenshot 2021-07-29 174117](https://user-images.githubusercontent.com/74540578/127577994-df0da588-ef5d-4f47-93e7-47df90fa2b44.jpg)
 
