@@ -16,6 +16,7 @@ You is Social apllication. there is news page,which contains information about c
 - Dialog
 - Lottie Animations
 - Firebase
+- Coroutines
 
 ## Features
 
