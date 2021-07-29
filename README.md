@@ -4,7 +4,7 @@
 
 **What is "You"?**
 
-You is Social apllication. there is news page,which contains information about corona virus daily/total statistics and weather. we have also chat function, where you can communicate with other users. You have two options to Post, post for everyone or post in certain radius. at profile, there is information about you and your uploaded pictures.
+You is Social apllication. there is news page,which contains information about corona virus daily/total statistics and weather(Depends on your location). we have also chat function, where you can communicate with other users. You have two options to Post, post for everyone or post in certain radius. at profile, there is information about you and your uploaded pictures.
 
 ## Libraries
 
