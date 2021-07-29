@@ -29,3 +29,11 @@ You is Social apllication, where you can post in certain radius. there is also p
 
 ## Design
 
+![Screenshot 2021-07-29 164711](https://user-images.githubusercontent.com/74540578/127500581-e12161ec-351e-4b8b-9a3d-15f295ac9aa4.jpg) 
+
+![Screenshot 2021-07-29 164643](https://user-images.githubusercontent.com/74540578/127500597-860065e7-8054-4208-b74e-72f38f0836c8.jpg) 
+
+![Screenshot 2021-07-29 164618](https://user-images.githubusercontent.com/74540578/127500608-9dde07bd-9bbe-46ef-92f3-f2bc38402a16.jpg) 
+
+![Screenshot 2021-07-29 164256](https://user-images.githubusercontent.com/74540578/127500617-7cfbdbc7-7d1c-4db9-a00f-35233e6845cc.jpg)
+
